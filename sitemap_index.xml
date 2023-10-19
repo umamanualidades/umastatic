@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://dapper-banoffee-03233c.netlify.app/sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.umamanualidades.com/sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://dapper-banoffee-03233c.netlify.app/post-sitemap.xml</loc>
+		<loc>https://www.umamanualidades.com/post-sitemap.xml</loc>
 		<lastmod>2023-10-18T19:50:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dapper-banoffee-03233c.netlify.app/page-sitemap.xml</loc>
+		<loc>https://www.umamanualidades.com/page-sitemap.xml</loc>
 		<lastmod>2023-10-19T18:22:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dapper-banoffee-03233c.netlify.app/author-sitemap.xml</loc>
+		<loc>https://www.umamanualidades.com/author-sitemap.xml</loc>
 		<lastmod>2023-10-19T08:34:37+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
