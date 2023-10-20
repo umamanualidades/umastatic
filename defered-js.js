@@ -9,27 +9,23 @@
         })
     }
 	/* Analytics */
-					(function(i, s, o, g, r, a, m) {
-						i['GoogleAnalyticsObject'] = r;
-						i[r] = i[r] || function() {
-							(i[r].q = i[r].q || []).push(arguments)
-						}, i[r].l = 1 * new Date();
-						a = s.createElement(o),
-							m = s.getElementsByTagName(o)[0];
-						a.async = 1;
-						a.src = g;
-						m.parentNode.insertBefore(a, m)
-					})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-					ga('create', 'UA-86041247-1', 'auto');
-					ga('require', 'displayfeatures');
-					ga('require', 'linkid');
-					ga('set', 'forceSSL', true);
-					ga('set', 'dimension1', 'uma');
-					ga('set', 'dimension5', 'registered');
-					ga('set', 'anonymizeIp', true);
-					ga('send', 'pageview');
-    setTimeout("ga('send','event','sin rebote','por tiempo', { 'nonInteraction': 1 })", 30000);
-	/* Funciones uma */
+    var tagga4 = document.createElement("script");
+    tagga4.src = "https://www.googletagmanager.com/gtag/js?id=G-6BY227YM24";
+    document.getElementsByTagName("head")[0].appendChild(tagga4);
+    setTimeout(
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6BY227YM24');, 3000);
+    setTimeout(function() {
+        gtag('event', 'sin_rebote', {
+          'event_category': 'por_tiempo',
+          'event_label': 'Engagement',
+          'non_interaction': true
+        });
+      }, 30000);
+      	/* Funciones uma */
     function addelvideo(video) {
         $('#YTplayer').html('<iframe id="player" pl="" type="text/html" width="640" height="390"allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"  src="https://www.youtube.com/embed/' + video + '?enablejsapi=1" frameborder="0"></iframe>');
     };
