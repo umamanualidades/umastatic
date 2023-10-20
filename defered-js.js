@@ -12,12 +12,12 @@
     var tagga4 = document.createElement("script");
     tagga4.src = "https://www.googletagmanager.com/gtag/js?id=G-6BY227YM24";
     document.getElementsByTagName("head")[0].appendChild(tagga4);
-    setTimeout(
+    setTimeout(function() {
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-6BY227YM24');, 3000);
+    gtag('config', 'G-6BY227YM24');}, 3000);
     setTimeout(function() {
         gtag('event', 'sin_rebote', {
           'event_category': 'por_tiempo',
