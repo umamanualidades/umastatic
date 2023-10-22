@@ -66,7 +66,7 @@
 					border-bottom: 1px solid #000;
 				}
 			</style>
-		</head>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6168305907433563" crossorigin="anonymous"></script></head>
 		<body>
 		<div id="content">
 			<h1>XML Sitemap</h1>

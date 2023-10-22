@@ -1103,13 +1103,13 @@
     }</style>
 	<link rel='preload' href='http://aldeamontessori.vl23616.dinaserver.com/css/style.min.css' as='style' onload="this.onload=null;this.rel='stylesheet'">
 	<noscript><link rel="stylesheet" href="http://aldeamontessori.vl23616.dinaserver.com/css/style.min.css"></noscript>
-</head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6168305907433563" crossorigin="anonymous"></script></head>
 <body class="error404 es-ES header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-footer-widgets-hidden"><div class="site-container"><div style="text-align:center;" class="">
 <ins class="adsbygoogle"
      style="display:block;max-height:100px;min-width: 250px;"
      data-ad-client="ca-pub-6168305907433563"
      data-ad-slot="6169282184"
-     data-ad-format="auto"></ins>
+     data-ad-format="auto"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
 </div>
     <div id="title-area">
 	<a href="http://aldeamontessori.vl23616.dinaserver.com/" rel="home" alt="Blog de Manualidades">
@@ -1119,7 +1119,7 @@
 	    <p>Blog de Manualidades y tutoriales DIY</p>	
 	</a>
     </div>
-	<div style="text-align:center;"><ins class="adsbygoogle bloquenlacesadaptable" style="display:block" data-ad-client="ca-pub-6168305907433563" data-ad-slot="2258070630" data-ad-format="link"></ins> </div><div class="menucontainer ">
+	<div style="text-align:center;"><ins class="adsbygoogle bloquenlacesadaptable" style="display:block" data-ad-client="ca-pub-6168305907433563" data-ad-slot="2258070630" data-ad-format="link"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({}); </script> </div><div class="menucontainer ">
 <div style="position:relative;max-width:1200px;margin:0 auto;">
 <ul class="topnav" id="myTopnav">
   <li><span>Materiales</span>
@@ -1186,7 +1186,7 @@
 		</div>
 	</div>
 	<div class="modal-backdrop" onclick="$('.modal-bienvenida').hide();$('.modal-backdrop').hide();$('#playermodalbienvenida').attr('src',$('#playermodalbienvenida').attr('src'));"></div>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6168305907433563" crossorigin="anonymous"></script>
+        
 		<script>
 		window.addEventListener('load', function () {
 			setTimeout(loaduma, 2000);
