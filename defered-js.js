@@ -1,13 +1,4 @@
-	/* Google Ads */
-    (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-6168305907433563",
-        enable_page_level_ads: true
-    });
-    (adsbygoogle = window.adsbygoogle || []).onload = function() {
-        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function() {
-            adsbygoogle.push({})
-        })
-    }
+
 	/* Analytics */
     var tagga4 = document.createElement("script");
     tagga4.src = "https://www.googletagmanager.com/gtag/js?id=G-6BY227YM24";
