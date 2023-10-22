@@ -14,8 +14,8 @@
 /manualidades-faciles/	/faciles/	301!
 /decoracion/	/decoracion-diy/	301!
 /diccionario/	/el-diccionario/	301!
-/category/	/	301!
-/ca/category/	/ca/	301!
+/category/*	/:splat	301!
+/ca/category/*	/ca/:splat	301!
 /ojos-moviles-reciclados-express/	/ojos-moviles/	301!
 /suscribirse/	/	301!
 /author/uma/	/	301!
@@ -7658,4 +7658,5 @@
 /manualidades-con-madera-fina/	/madera/manualidades-con-madera-fina/	301!
 /fiestas-superheroes/   /fiestas/fiestas-superheroes/   301!
 /*/amp/  /:splat 301!
+/*/feed/  /:splat 301!
 
