@@ -7657,4 +7657,5 @@
 /fimo/que-es-la-arcilla-polimerica/	/fimo/	301!
 /manualidades-con-madera-fina/	/madera/manualidades-con-madera-fina/	301!
 /fiestas-superheroes/   /fiestas/fiestas-superheroes/   301!
-/*amp/* /:splat 301!
+/*/amp/  /:splat 301!
+
