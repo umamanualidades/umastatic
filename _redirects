@@ -34,7 +34,8 @@
 /que-es-la-arcilla-polimerica-o-fimo/	/fimo/	301!
 /de-reciclaje/manualidades-capsulas-cafe/	/capsulas-cafe/	301!
 /de-reciclaje/rollos-de-papel-higienico/	/rollos-de-papel-higienico/	301!
-/sitemap-misc.xml	/sitemap.xml	301!
+/sitemap-misc.xml	/sitemap_index.xml	301!
+/sitemap.xml	/sitemap_index.xml	301!
 /tipos-papeles-manualidades/	/con-papel/#Tipos_de_papeles	301!
 /.well-known/apple-app-site-association	/	301!
 /.well-known/assetlinks.json	/	301!
@@ -402,7 +403,7 @@
 /sitemap-archives.html	/	301!
 /sitemap-archives.xml	/	301!
 /sitemap-authors.xml	/	301!
-/sitemap-image.xml	/sitemap.xml	301!
+/sitemap-image.xml	/sitemap_index.xml	301!
 /sitemap-misc.html	/	301!
 /sitemap-misc.xml	/	301!
 /sitemap-pt-page-2016-10.xml	/	301!
