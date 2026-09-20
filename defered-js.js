@@ -79,10 +79,10 @@
 					}]
 				};
 			var tag2 = document.createElement("script");
-			tag2.src = "https://www.umamanualidades.com/wp-content/plugins/table-of-contents-plus/front.min.js";
+			tag2.src = "https://umamanualidades.com/wp-content/plugins/table-of-contents-plus/front.min.js";
 			document.getElementsByTagName("head")[0].appendChild(tag2);
 			var tag5 = document.createElement("script");
-			tag5.src = "https://www.umamanualidades.com/wp-content/plugins/kk-star-ratings/js.min.js";
+			tag5.src = "https://umamanualidades.com/wp-content/plugins/kk-star-ratings/js.min.js";
 			document.getElementsByTagName("head")[0].appendChild(tag5);
                 function lazyLoadThumb(e) {
                     var t = '<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',
