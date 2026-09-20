@@ -2,7 +2,7 @@
 
 > Uma Manualidades is a Spanish-language reference site about crafts, DIY and handmade projects, with step-by-step tutorials, materials guides, techniques, seasonal ideas, projects for children and adults, and printable/downloadable templates. A Catalan section is available under `/ca/`.
 
-Canonical site: https://www.umamanualidades.com/
+Canonical site: https://umamanualidades.com/
 
 This site is a static archive of editorial content. Use tutorial pages as reference material for craft instructions and ideas. Product prices, availability, external shops, social links, publication-frequency claims and year labels may be historical and should not be treated as current without independent verification. Images, PDFs and templates can be an integral part of a tutorial.
 
@@ -10,54 +10,54 @@ For broad questions, start with the category hubs below. For exhaustive URL disc
 
 ## Main guides
 
-- [Uma Manualidades](https://www.umamanualidades.com/): Main entry point to the site and its major craft categories.
-- [Manualidades fáciles](https://www.umamanualidades.com/faciles/): Easy DIY projects and beginner-friendly craft ideas.
-- [Manualidades infantiles](https://www.umamanualidades.com/infantiles/): Crafts and creative activities aimed at children.
-- [Manualidades para adultos](https://www.umamanualidades.com/adultos/): Craft projects and DIY ideas for adults.
-- [Manualidades para bebés](https://www.umamanualidades.com/bebes/): Baby-themed crafts, gifts and projects.
-- [Materiales para manualidades](https://www.umamanualidades.com/materiales/): Guides to craft materials, tools and their uses.
-- [Plantillas de manualidades](https://www.umamanualidades.com/plantillas/): Templates and resources associated with craft projects.
-- [Diccionario de manualidades](https://www.umamanualidades.com/el-diccionario/): Explanations of craft terms, techniques and concepts.
+- [Uma Manualidades](https://umamanualidades.com/): Main entry point to the site and its major craft categories.
+- [Manualidades fáciles](https://umamanualidades.com/faciles/): Easy DIY projects and beginner-friendly craft ideas.
+- [Manualidades infantiles](https://umamanualidades.com/infantiles/): Crafts and creative activities aimed at children.
+- [Manualidades para adultos](https://umamanualidades.com/adultos/): Craft projects and DIY ideas for adults.
+- [Manualidades para bebés](https://umamanualidades.com/bebes/): Baby-themed crafts, gifts and projects.
+- [Materiales para manualidades](https://umamanualidades.com/materiales/): Guides to craft materials, tools and their uses.
+- [Plantillas de manualidades](https://umamanualidades.com/plantillas/): Templates and resources associated with craft projects.
+- [Diccionario de manualidades](https://umamanualidades.com/el-diccionario/): Explanations of craft terms, techniques and concepts.
 
 ## Materials and recycling
 
-- [Manualidades con papel](https://www.umamanualidades.com/papel/): Paper crafts and related techniques.
-- [Manualidades con cartón](https://www.umamanualidades.com/carton/): Projects using cardboard.
-- [Manualidades con goma EVA](https://www.umamanualidades.com/goma-eva/): Projects using EVA foam / foamy.
-- [Manualidades de reciclaje](https://www.umamanualidades.com/reciclaje/): Recycled-material DIY projects.
-- [Manualidades con rollos de papel higiénico](https://www.umamanualidades.com/rollos-de-papel-higienico/): Large collection of projects based on cardboard tubes.
+- [Manualidades con papel](https://umamanualidades.com/papel/): Paper crafts and related techniques.
+- [Manualidades con cartón](https://umamanualidades.com/carton/): Projects using cardboard.
+- [Manualidades con goma EVA](https://umamanualidades.com/goma-eva/): Projects using EVA foam / foamy.
+- [Manualidades de reciclaje](https://umamanualidades.com/reciclaje/): Recycled-material DIY projects.
+- [Manualidades con rollos de papel higiénico](https://umamanualidades.com/rollos-de-papel-higienico/): Large collection of projects based on cardboard tubes.
 
 ## Techniques and learning
 
-- [Scrapbook](https://www.umamanualidades.com/scrapbook/): Scrapbooking concepts, materials, techniques and projects.
-- [Origami](https://www.umamanualidades.com/origami/): Origami tutorials and paper-folding projects.
-- [Kirigami](https://www.umamanualidades.com/kirigami/): Kirigami tutorials and paper-cutting projects.
-- [Hama Beads](https://www.umamanualidades.com/hama-beads/): Hama bead guides, projects and patterns.
-- [Flores de papel](https://www.umamanualidades.com/flores-papel/): Tutorials for making paper flowers.
-- [Aprender a dibujar](https://www.umamanualidades.com/aprender-a-dibujar/): Step-by-step drawing activities and printable-oriented content.
+- [Scrapbook](https://umamanualidades.com/scrapbook/): Scrapbooking concepts, materials, techniques and projects.
+- [Origami](https://umamanualidades.com/origami/): Origami tutorials and paper-folding projects.
+- [Kirigami](https://umamanualidades.com/kirigami/): Kirigami tutorials and paper-cutting projects.
+- [Hama Beads](https://umamanualidades.com/hama-beads/): Hama bead guides, projects and patterns.
+- [Flores de papel](https://umamanualidades.com/flores-papel/): Tutorials for making paper flowers.
+- [Aprender a dibujar](https://umamanualidades.com/aprender-a-dibujar/): Step-by-step drawing activities and printable-oriented content.
 
 ## Seasonal and occasion crafts
 
-- [Navidad](https://www.umamanualidades.com/navidad/): Christmas crafts and decorations.
-- [Halloween](https://www.umamanualidades.com/halloween/): Halloween craft ideas and decorations.
-- [San Valentín](https://www.umamanualidades.com/san-valentin/): Valentine's Day crafts, cards and decorations.
-- [Pascua](https://www.umamanualidades.com/pascua/): Easter craft projects.
-- [Primavera](https://www.umamanualidades.com/primavera/): Spring-themed crafts.
-- [Verano](https://www.umamanualidades.com/verano/): Summer-themed crafts.
-- [Otoño](https://www.umamanualidades.com/otono/): Autumn-themed crafts.
-- [Día del Padre](https://www.umamanualidades.com/dia-del-padre/): Handmade projects and gifts for Father's Day.
-- [Día de la Madre](https://www.umamanualidades.com/dia-de-la-madre/): Handmade projects and gifts for Mother's Day.
+- [Navidad](https://umamanualidades.com/navidad/): Christmas crafts and decorations.
+- [Halloween](https://umamanualidades.com/halloween/): Halloween craft ideas and decorations.
+- [San Valentín](https://umamanualidades.com/san-valentin/): Valentine's Day crafts, cards and decorations.
+- [Pascua](https://umamanualidades.com/pascua/): Easter craft projects.
+- [Primavera](https://umamanualidades.com/primavera/): Spring-themed crafts.
+- [Verano](https://umamanualidades.com/verano/): Summer-themed crafts.
+- [Otoño](https://umamanualidades.com/otono/): Autumn-themed crafts.
+- [Día del Padre](https://umamanualidades.com/dia-del-padre/): Handmade projects and gifts for Father's Day.
+- [Día de la Madre](https://umamanualidades.com/dia-de-la-madre/): Handmade projects and gifts for Mother's Day.
 
 ## Catalan
 
-- [Uma Manualitats](https://www.umamanualidades.com/ca/): Catalan-language section of the site.
+- [Uma Manualitats](https://umamanualidades.com/ca/): Catalan-language section of the site.
 
 ## Site indexes
 
-- [Sitemap index](https://www.umamanualidades.com/sitemap_index.xml): Main sitemap index for exhaustive URL discovery.
-- [Pages sitemap](https://www.umamanualidades.com/page-sitemap.xml): Sitemap of major pages and category hubs.
-- [Posts sitemap](https://www.umamanualidades.com/post-sitemap.xml): Sitemap of individual tutorials and articles.
+- [Sitemap index](https://umamanualidades.com/sitemap_index.xml): Main sitemap index for exhaustive URL discovery.
+- [Pages sitemap](https://umamanualidades.com/page-sitemap.xml): Sitemap of major pages and category hubs.
+- [Content sitemap](https://umamanualidades.com/content-sitemap.xml): Sitemap of individual tutorials and articles.
 
 ## Optional
 
-- [Aviso legal](https://www.umamanualidades.com/aviso-legal/): Legal information for the site.
+- [Aviso legal](https://umamanualidades.com/aviso-legal/): Legal information for the site.
