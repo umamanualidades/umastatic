@@ -1091,15 +1091,15 @@
     }
 
     .kk-star-ratings .kksr-star.gray {
-        background-image: url(https://www.umamanualidades.com/wp-content/plugins/kk-star-ratings/gray.png)
+        background-image: url(https://umamanualidades.com/wp-content/plugins/kk-star-ratings/gray.png)
     }
 
     .kk-star-ratings .kksr-star.yellow {
-        background-image: url(https://www.umamanualidades.com/wp-content/plugins/kk-star-ratings/yellow.png)
+        background-image: url(https://umamanualidades.com/wp-content/plugins/kk-star-ratings/yellow.png)
     }
 
     .kk-star-ratings .kksr-star.orange {
-        background-image: url(https://www.umamanualidades.com/wp-content/plugins/kk-star-ratings/orange.png)
+        background-image: url(https://umamanualidades.com/wp-content/plugins/kk-star-ratings/orange.png)
     }</style>
 	<link rel='preload' href='http://aldeamontessori.vl23616.dinaserver.com/css/style.min.css' as='style' onload="this.onload=null;this.rel='stylesheet'">
 	<noscript><link rel="stylesheet" href="http://aldeamontessori.vl23616.dinaserver.com/css/style.min.css"></noscript>
@@ -1113,7 +1113,7 @@
 </div>
     <div id="title-area">
 	<a href="http://aldeamontessori.vl23616.dinaserver.com/" rel="home" alt="Blog de Manualidades">
-		<img width="150" height="150" class="logos" alt="Blog de Manualidades" title="Blog de Manualidades" src="https://www.umamanualidades.com/wp-content/uploads/2017/08/uma-manualidades.jpg" />
+		<img width="150" height="150" class="logos" alt="Blog de Manualidades" title="Blog de Manualidades" src="https://umamanualidades.com/wp-content/uploads/2017/08/uma-manualidades.jpg" />
 	</a>
 	<a href="http://aldeamontessori.vl23616.dinaserver.com/" rel="home">
 	    <p>Blog de Manualidades y tutoriales DIY</p>	
@@ -1138,7 +1138,7 @@
 	<ul class="sub-menu">
 	  <li class="menucorto"><a href="http://aldeamontessori.vl23616.dinaserver.com/origami/">Curso de Origami</a></li><li class="menucorto"><a href="http://aldeamontessori.vl23616.dinaserver.com/kirigami/">Kirigami</a></li><li class="menucorto"><a href="http://aldeamontessori.vl23616.dinaserver.com/ganchillo/">Manualidades de ganchillo</a></li><li class="menucorto"><a href="http://aldeamontessori.vl23616.dinaserver.com/fofuchas/">Muñecas Fofuchas</a></li><li class="menucorto"><a href="http://aldeamontessori.vl23616.dinaserver.com/scrapbook/">Scrapbook</a></li>	</ul>
   </li>
-  <li><a href="https://www.umamanualidades.com/plantillas/">Plantillas</a></li>
+  <li><a href="https://umamanualidades.com/plantillas/">Plantillas</a></li>
 </ul>
 </div>
 </div>
@@ -1148,10 +1148,10 @@
 <div class="site-inner-sm"><div class="content-sidebar-wrap"><main class="content"><article class="entry"><h1 class="entry-title">Not found, error 404</h1><div class="entry-content"><p>The page you are looking for no longer exists. Perhaps you can return back to the <a href="http://aldeamontessori.vl23616.dinaserver.com/">homepage</a> and see if you can find what you are looking for. Or, you can try finding it by using the search form below.</p><form class="search-form" method="get" action="http://aldeamontessori.vl23616.dinaserver.com/" role="search"><label class="search-form-label screen-reader-text" for="searchform-1">Search this website</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website"><input class="search-form-submit" type="submit" value="Search"><meta content="http://aldeamontessori.vl23616.dinaserver.com/?s=%7Bs%7D"></form></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2></aside></div>﻿</div>
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
-			<img class="bandas1" src="https://www.umamanualidades.com/wp-content/uploads/iconos/bandas1.png">
-			<img class="bandas2" src="https://www.umamanualidades.com/wp-content/uploads/iconos/bandas2.png" />
+			<img class="bandas1" src="https://umamanualidades.com/wp-content/uploads/iconos/bandas1.png">
+			<img class="bandas2" src="https://umamanualidades.com/wp-content/uploads/iconos/bandas2.png" />
 			<div class="site-info">
-				<span class="">&copy; <a href="http://aldeamontessori.vl23616.dinaserver.com/" rel="home">Uma Manualidades</a> Todos los derechos reservados - <a href="https://www.umamanualidades.com/aviso-legal/" alt="aviso legal" title="aviso legal">aviso legal<a>
+				<span class="">&copy; <a href="http://aldeamontessori.vl23616.dinaserver.com/" rel="home">Uma Manualidades</a> Todos los derechos reservados - <a href="https://umamanualidades.com/aviso-legal/" alt="aviso legal" title="aviso legal">aviso legal<a>
 				
 				</span>
 			</div><!-- .site-info -->
@@ -1161,15 +1161,15 @@
 			<div class="close" onclick="$('.modal-bienvenida').hide();$('.modal-backdrop').hide();$('#playermodalbienvenida').attr('src',$('#playermodalbienvenida').attr('src'));" style="background: #cdafc7; top: 20px; right: 20px; border: 1px solid white; font-family: pacifico; text-align: center; padding-left: 12px;">X</div>
 			<div style="max-width:400px;margin:0 auto;">
 			<div style="background:#cdafc7;color:white;">
-			<img style="max-width:100%;padding: 5px;padding-bottom: 0;" src="https://www.umamanualidades.com/wp-content/uploads/email/bannersuperiorpopup.png" alt="Uma Manualidades" title="Uma Manualidades" />
+			<img style="max-width:100%;padding: 5px;padding-bottom: 0;" src="https://umamanualidades.com/wp-content/uploads/email/bannersuperiorpopup.png" alt="Uma Manualidades" title="Uma Manualidades" />
 			<h3 style="padding-left: 20px; font-family: pacifico;margin: 0;font-size: 20px;">Paso 1:</h3>
 			<p style="text-align: center; font-size: 14px; padding: 10px; margin: 0;">Suscríbete a este canal y así podremos avisarte cuando colguemos un vídeo nuevo.</p>
 			</div>
 			
 		<div style="text-align: center; margin: 0;padding:5px 0;">
-			<img itemprop="image" src="https://www.umamanualidades.com/wp-content/uploads/iconos/manomoviendo.gif" alt="Suscribirse" style="display:inline-block;" />
+			<img itemprop="image" src="https://umamanualidades.com/wp-content/uploads/iconos/manomoviendo.gif" alt="Suscribirse" style="display:inline-block;" />
 			<a href="https://www.youtube.com/channel/UC6CZZxCxl_pFDLNo66dZDXA?sub_confirmation=1" target="_blank" onclick="ga('send', 'event', 'Suscribirse', 'Suscribirse', 'Suscribirse', undefined, true);fbq('track', 'Subscribe');">
-			<img itemprop="image" class="" onmouseover="$(this).attr('src','https://www.umamanualidades.com/wp-content/uploads/email/suscribirbotonhover.jpg');" onmouseout="$(this).attr('src','https://www.umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg');" src="https://www.umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg" alt="Suscribirse" style="display:inline-block;" />
+			<img itemprop="image" class="" onmouseover="$(this).attr('src','https://umamanualidades.com/wp-content/uploads/email/suscribirbotonhover.jpg');" onmouseout="$(this).attr('src','https://umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg');" src="https://umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg" alt="Suscribirse" style="display:inline-block;" />
 			</a>
 		</div>			<div style="background:#cdafc7;color:white;">
 			<h3 style="padding-left: 20px; font-family: pacifico;margin: 0;font-size: 20px;">Paso 2:</h3>
@@ -1193,7 +1193,7 @@
 		})
 		function loaduma() {
 			var tag = document.createElement("script");
-			tag.src = "https://www.umamanualidades.com/defered-js.js";
+			tag.src = "https://umamanualidades.com/defered-js.js";
 			document.getElementsByTagName("head")[0].appendChild(tag);
 		};
 		</script>
