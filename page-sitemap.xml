@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.umamanualidades.com/sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://umamanualidades.com/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.umamanualidades.com/</loc>
+		<loc>https://umamanualidades.com/</loc>
 		<lastmod>2022-02-27T22:26:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/iconos/diyhome.webp</image:loc>
@@ -14,7 +14,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/diy-bodas/</loc>
+		<loc>https://umamanualidades.com/diy-bodas/</loc>
 		<lastmod>2017-09-26T16:24:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-bodas-500x331.webp</image:loc>
@@ -75,7 +75,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/naturaleza/</loc>
+		<loc>https://umamanualidades.com/naturaleza/</loc>
 		<lastmod>2017-09-26T17:33:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-naturaleza-500x331.webp</image:loc>
@@ -103,18 +103,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/decoracio-diy/</loc>
+		<loc>https://umamanualidades.com/ca/decoracio-diy/</loc>
 		<lastmod>2017-09-27T20:58:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-decoracion-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/cartro/</loc>
+		<loc>https://umamanualidades.com/ca/cartro/</loc>
 		<lastmod>2017-09-27T21:04:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/reciclatge/</loc>
+		<loc>https://umamanualidades.com/ca/reciclatge/</loc>
 		<lastmod>2017-09-28T11:22:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-reciclaje-500x331.webp</image:loc>
@@ -340,11 +340,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/festes/</loc>
+		<loc>https://umamanualidades.com/ca/festes/</loc>
 		<lastmod>2017-09-28T13:54:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/kawaii/</loc>
+		<loc>https://umamanualidades.com/ca/kawaii/</loc>
 		<lastmod>2017-09-28T15:30:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/09/20170911_200643_17.webp</image:loc>
@@ -480,14 +480,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/sant-valenti/</loc>
+		<loc>https://umamanualidades.com/ca/sant-valenti/</loc>
 		<lastmod>2017-09-29T21:07:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-san-valentin-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/paper/</loc>
+		<loc>https://umamanualidades.com/ca/paper/</loc>
 		<lastmod>2017-09-29T21:18:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-papel-500x331.webp</image:loc>
@@ -521,7 +521,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/naturalesa/</loc>
+		<loc>https://umamanualidades.com/ca/naturalesa/</loc>
 		<lastmod>2017-09-29T21:24:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-naturaleza-500x331.webp</image:loc>
@@ -549,7 +549,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/halloween/</loc>
+		<loc>https://umamanualidades.com/ca/halloween/</loc>
 		<lastmod>2017-09-30T10:40:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/09/trucos-de-manualidades-de-halloween-350x263.webp</image:loc>
@@ -586,7 +586,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/kirigami/</loc>
+		<loc>https://umamanualidades.com/ca/kirigami/</loc>
 		<lastmod>2017-09-30T11:00:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-kirgami-500x331.webp</image:loc>
@@ -608,11 +608,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/ganxet/</loc>
+		<loc>https://umamanualidades.com/ca/ganxet/</loc>
 		<lastmod>2017-09-30T11:01:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/fimo/</loc>
+		<loc>https://umamanualidades.com/ca/fimo/</loc>
 		<lastmod>2017-09-30T11:18:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-fimo-500x331.webp</image:loc>
@@ -661,35 +661,35 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/flors-paper/</loc>
+		<loc>https://umamanualidades.com/ca/flors-paper/</loc>
 		<lastmod>2017-09-30T11:20:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-flores-de-papel-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/el-diccionari/</loc>
+		<loc>https://umamanualidades.com/ca/el-diccionari/</loc>
 		<lastmod>2017-09-30T11:21:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/05/diccionario-500x281.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/rotllos-de-paper-higienic/</loc>
+		<loc>https://umamanualidades.com/ca/rotllos-de-paper-higienic/</loc>
 		<lastmod>2017-09-30T11:24:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-tubos-de-carton-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/complements-bijuteria/</loc>
+		<loc>https://umamanualidades.com/ca/complements-bijuteria/</loc>
 		<lastmod>2017-09-30T17:43:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/complementos-diy-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/slime/</loc>
+		<loc>https://umamanualidades.com/ca/slime/</loc>
 		<lastmod>2017-09-30T17:44:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/09/manualidades-de-slime-500x331.webp</image:loc>
@@ -732,7 +732,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/washi-tape-idees/</loc>
+		<loc>https://umamanualidades.com/ca/washi-tape-idees/</loc>
 		<lastmod>2017-09-30T17:54:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-washi-tape-500x331.webp</image:loc>
@@ -760,14 +760,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/capsules-cafe/</loc>
+		<loc>https://umamanualidades.com/ca/capsules-cafe/</loc>
 		<lastmod>2017-09-30T18:01:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-capsulas-de-cafe-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/retoladors/</loc>
+		<loc>https://umamanualidades.com/ca/retoladors/</loc>
 		<lastmod>2017-09-30T19:07:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/05/20170613_190424_1-300x168.webp</image:loc>
@@ -840,7 +840,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/diy-casaments/</loc>
+		<loc>https://umamanualidades.com/ca/diy-casaments/</loc>
 		<lastmod>2017-10-02T15:03:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-bodas-500x331.webp</image:loc>
@@ -901,7 +901,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/</loc>
+		<loc>https://umamanualidades.com/ca/</loc>
 		<lastmod>2017-10-14T14:25:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/iconos/diyhome.webp</image:loc>
@@ -914,26 +914,26 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/nadal/</loc>
+		<loc>https://umamanualidades.com/ca/nadal/</loc>
 		<lastmod>2017-10-16T11:29:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-navidad-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/vendre/</loc>
+		<loc>https://umamanualidades.com/ca/vendre/</loc>
 		<lastmod>2017-10-22T16:42:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/nadons/</loc>
+		<loc>https://umamanualidades.com/ca/nadons/</loc>
 		<lastmod>2017-10-23T10:59:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/centres-de-taula/</loc>
+		<loc>https://umamanualidades.com/ca/centres-de-taula/</loc>
 		<lastmod>2017-10-23T15:33:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/feltre/</loc>
+		<loc>https://umamanualidades.com/ca/feltre/</loc>
 		<lastmod>2017-10-25T10:03:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/06/como-hacer-manualidades-de-fieltro.webp</image:loc>
@@ -943,14 +943,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/suros/</loc>
+		<loc>https://umamanualidades.com/ca/suros/</loc>
 		<lastmod>2017-10-25T10:24:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/05/tipos-de-corcho-338x450.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/spinner/</loc>
+		<loc>https://umamanualidades.com/ca/spinner/</loc>
 		<lastmod>2017-10-28T10:22:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/10/spinner-de-arcilla-polimerica-fimo-500x375.webp</image:loc>
@@ -960,14 +960,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/plantilles/</loc>
+		<loc>https://umamanualidades.com/ca/plantilles/</loc>
 		<lastmod>2018-01-25T11:34:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/01/plantillas-de-manualidades-500x356.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/trapillo/</loc>
+		<loc>https://umamanualidades.com/trapillo/</loc>
 		<lastmod>2018-04-19T08:16:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/zapatillas-de-trapillo-338x400.webp</image:loc>
@@ -1028,14 +1028,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/plantillas/</loc>
+		<loc>https://umamanualidades.com/plantillas/</loc>
 		<lastmod>2018-06-08T14:54:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/plantillas-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/acetato/</loc>
+		<loc>https://umamanualidades.com/acetato/</loc>
 		<lastmod>2018-06-26T10:44:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-acetato-1-500x331.webp</image:loc>
@@ -1069,7 +1069,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/madera/</loc>
+		<loc>https://umamanualidades.com/madera/</loc>
 		<lastmod>2018-06-26T11:00:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-madera-500x331.webp</image:loc>
@@ -1163,7 +1163,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/tejas/</loc>
+		<loc>https://umamanualidades.com/tejas/</loc>
 		<lastmod>2018-07-08T17:50:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-con-tejas-velas-750x469.webp</image:loc>
@@ -1236,14 +1236,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/vender/</loc>
+		<loc>https://umamanualidades.com/vender/</loc>
 		<lastmod>2018-07-08T17:57:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/artesanias-vender-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/telas/</loc>
+		<loc>https://umamanualidades.com/telas/</loc>
 		<lastmod>2018-07-08T17:59:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/telas-500x331.webp</image:loc>
@@ -1322,7 +1322,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/tornada-escola/</loc>
+		<loc>https://umamanualidades.com/ca/tornada-escola/</loc>
 		<lastmod>2018-07-09T10:18:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-vuelta-al-cole-estuches-750x469.webp</image:loc>
@@ -1398,7 +1398,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/regals/</loc>
+		<loc>https://umamanualidades.com/ca/regals/</loc>
 		<lastmod>2018-07-09T16:51:54+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-regalos-500x331.webp</image:loc>
@@ -1543,7 +1543,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/com-fer-squishy/</loc>
+		<loc>https://umamanualidades.com/ca/com-fer-squishy/</loc>
 		<lastmod>2018-07-09T17:03:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/como-hacer-squishy-500x331.webp</image:loc>
@@ -1574,7 +1574,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/com-fer-origami/</loc>
+		<loc>https://umamanualidades.com/ca/com-fer-origami/</loc>
 		<lastmod>2018-07-09T17:06:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/origami--500x331.webp</image:loc>
@@ -1671,7 +1671,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/palets-de-gelat/</loc>
+		<loc>https://umamanualidades.com/ca/palets-de-gelat/</loc>
 		<lastmod>2018-07-09T18:45:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/palitos-madera-500x331.webp</image:loc>
@@ -1759,7 +1759,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/com-fer-trapillo/</loc>
+		<loc>https://umamanualidades.com/ca/com-fer-trapillo/</loc>
 		<lastmod>2018-07-10T09:46:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/zapatillas-de-trapillo-338x400.webp</image:loc>
@@ -1820,7 +1820,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/manualitats-amb-goma-eva/</loc>
+		<loc>https://umamanualidades.com/ca/manualitats-amb-goma-eva/</loc>
 		<lastmod>2018-07-10T09:47:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-goma-eva-500x331.webp</image:loc>
@@ -1941,7 +1941,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/teles/</loc>
+		<loc>https://umamanualidades.com/ca/teles/</loc>
 		<lastmod>2018-07-10T10:23:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/telas-500x331.webp</image:loc>
@@ -2020,7 +2020,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/fusta/</loc>
+		<loc>https://umamanualidades.com/ca/fusta/</loc>
 		<lastmod>2018-07-10T10:27:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-madera-500x331.webp</image:loc>
@@ -2114,7 +2114,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/flors-artificials/</loc>
+		<loc>https://umamanualidades.com/ca/flors-artificials/</loc>
 		<lastmod>2018-07-10T10:40:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-flores-artificiales-500x331.webp</image:loc>
@@ -2178,7 +2178,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/manualitats-rafia/</loc>
+		<loc>https://umamanualidades.com/ca/manualitats-rafia/</loc>
 		<lastmod>2018-07-10T10:53:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-rafia-de-colores-750x469.webp</image:loc>
@@ -2239,7 +2239,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/acetat/</loc>
+		<loc>https://umamanualidades.com/ca/acetat/</loc>
 		<lastmod>2018-07-10T11:01:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-acetato-1-500x331.webp</image:loc>
@@ -2273,11 +2273,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/fofuchas/</loc>
+		<loc>https://umamanualidades.com/ca/fofuchas/</loc>
 		<lastmod>2018-07-10T11:10:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/infantils/</loc>
+		<loc>https://umamanualidades.com/ca/infantils/</loc>
 		<lastmod>2018-07-10T11:11:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-infantiles-500x331.webp</image:loc>
@@ -2308,14 +2308,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/materials/</loc>
+		<loc>https://umamanualidades.com/ca/materials/</loc>
 		<lastmod>2018-07-10T11:12:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/05/materiales-para-flores-de-papel-1024x699.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/estiu/</loc>
+		<loc>https://umamanualidades.com/ca/estiu/</loc>
 		<lastmod>2018-07-10T11:12:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-verano-500x331.webp</image:loc>
@@ -2343,7 +2343,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/adults/</loc>
+		<loc>https://umamanualidades.com/ca/adults/</loc>
 		<lastmod>2018-07-10T11:13:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/09/manualidades-con-troncos-para-personas-mayores.webp</image:loc>
@@ -2437,21 +2437,21 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/rapides/</loc>
+		<loc>https://umamanualidades.com/ca/rapides/</loc>
 		<lastmod>2018-07-10T11:14:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-rapidas-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/facils/</loc>
+		<loc>https://umamanualidades.com/ca/facils/</loc>
 		<lastmod>2018-07-10T11:15:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-faciles-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/envasos/</loc>
+		<loc>https://umamanualidades.com/ca/envasos/</loc>
 		<lastmod>2018-07-10T11:22:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-envases-500x331.webp</image:loc>
@@ -2656,7 +2656,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/palets-xinesos/</loc>
+		<loc>https://umamanualidades.com/ca/palets-xinesos/</loc>
 		<lastmod>2018-07-11T16:28:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-palitos-chinos-500x331.webp</image:loc>
@@ -2729,7 +2729,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/llavors/</loc>
+		<loc>https://umamanualidades.com/ca/llavors/</loc>
 		<lastmod>2018-07-11T16:28:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-semillas-500x331.webp</image:loc>
@@ -2784,7 +2784,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/glans/</loc>
+		<loc>https://umamanualidades.com/ca/glans/</loc>
 		<lastmod>2018-07-11T16:28:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-bellotas-500x331.webp</image:loc>
@@ -2842,7 +2842,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/nous/</loc>
+		<loc>https://umamanualidades.com/ca/nous/</loc>
 		<lastmod>2018-07-11T16:28:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-nueces-500x331.webp</image:loc>
@@ -2903,7 +2903,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/dia-del-padre/</loc>
+		<loc>https://umamanualidades.com/dia-del-padre/</loc>
 		<lastmod>2018-07-12T09:16:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-dia-padre-500x331.webp</image:loc>
@@ -2982,7 +2982,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/kawaii/</loc>
+		<loc>https://umamanualidades.com/kawaii/</loc>
 		<lastmod>2018-07-12T09:17:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/utiles-ecolares-kawaii-500x281.webp</image:loc>
@@ -3121,14 +3121,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/materiales/</loc>
+		<loc>https://umamanualidades.com/materiales/</loc>
 		<lastmod>2018-07-12T09:17:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/materiales-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/verano/</loc>
+		<loc>https://umamanualidades.com/verano/</loc>
 		<lastmod>2018-07-12T09:19:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-verano-500x331.webp</image:loc>
@@ -3156,14 +3156,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/el-diccionario/</loc>
+		<loc>https://umamanualidades.com/el-diccionario/</loc>
 		<lastmod>2018-07-12T09:20:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/diccionario--500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/fimo/</loc>
+		<loc>https://umamanualidades.com/fimo/</loc>
 		<lastmod>2018-07-12T09:21:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-fimo-500x331.webp</image:loc>
@@ -3212,7 +3212,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/reciclaje/</loc>
+		<loc>https://umamanualidades.com/reciclaje/</loc>
 		<lastmod>2018-07-12T09:21:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-reciclaje-500x331.webp</image:loc>
@@ -3432,14 +3432,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-rapidas/</loc>
+		<loc>https://umamanualidades.com/manualidades-rapidas/</loc>
 		<lastmod>2018-07-12T09:22:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-rapidas-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/complementos-bisuteria/</loc>
+		<loc>https://umamanualidades.com/complementos-bisuteria/</loc>
 		<lastmod>2018-07-13T08:28:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/complementos-diy-500x331.webp</image:loc>
@@ -3539,7 +3539,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/washi-tape-ideas/</loc>
+		<loc>https://umamanualidades.com/washi-tape-ideas/</loc>
 		<lastmod>2018-07-13T08:29:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-washi-tape-500x331.webp</image:loc>
@@ -3567,7 +3567,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/pots-de-pringles/</loc>
+		<loc>https://umamanualidades.com/ca/pots-de-pringles/</loc>
 		<lastmod>2018-07-13T10:35:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-botes-de-pringles-500x331.webp</image:loc>
@@ -3607,7 +3607,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/dia-del-pare/</loc>
+		<loc>https://umamanualidades.com/ca/dia-del-pare/</loc>
 		<lastmod>2018-07-13T10:35:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-dia-padre-500x331.webp</image:loc>
@@ -3686,7 +3686,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/com-fer-hama-beads/</loc>
+		<loc>https://umamanualidades.com/ca/com-fer-hama-beads/</loc>
 		<lastmod>2018-07-13T10:35:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-hama-beads-500x331.webp</image:loc>
@@ -3756,7 +3756,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/petxines-de-mar/</loc>
+		<loc>https://umamanualidades.com/ca/petxines-de-mar/</loc>
 		<lastmod>2018-07-13T10:35:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-conchas-de-mar-500x331.webp</image:loc>
@@ -3826,7 +3826,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/plantes/</loc>
+		<loc>https://umamanualidades.com/ca/plantes/</loc>
 		<lastmod>2018-07-13T10:35:54+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-plantas-500x331.webp</image:loc>
@@ -3884,7 +3884,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/plats-de-plastic/</loc>
+		<loc>https://umamanualidades.com/ca/plats-de-plastic/</loc>
 		<lastmod>2018-07-13T10:35:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-platos-de-plastico-1-500x331.webp</image:loc>
@@ -3942,7 +3942,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/teules/</loc>
+		<loc>https://umamanualidades.com/ca/teules/</loc>
 		<lastmod>2018-07-13T10:35:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-con-tejas-velas-750x469.webp</image:loc>
@@ -4015,7 +4015,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/aprender-a-dibujar/</loc>
+		<loc>https://umamanualidades.com/aprender-a-dibujar/</loc>
 		<lastmod>2018-07-18T08:16:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/aprender-a-dibujar-500x331.webp</image:loc>
@@ -4076,14 +4076,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/adultos/</loc>
+		<loc>https://umamanualidades.com/adultos/</loc>
 		<lastmod>2018-07-26T15:18:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/adutos-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/vuelta-al-cole/</loc>
+		<loc>https://umamanualidades.com/vuelta-al-cole/</loc>
 		<lastmod>2018-07-30T14:50:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-vuelta-cole-500x331.webp</image:loc>
@@ -4114,7 +4114,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/troncos/</loc>
+		<loc>https://umamanualidades.com/troncos/</loc>
 		<lastmod>2018-08-09T08:05:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/ideas-con-troncos-jardin-750x469.webp</image:loc>
@@ -4175,7 +4175,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/halloween/</loc>
+		<loc>https://umamanualidades.com/halloween/</loc>
 		<lastmod>2018-08-20T17:05:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/09/trucos-de-manualidades-de-halloween-350x263.webp</image:loc>
@@ -4236,7 +4236,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/otono/</loc>
+		<loc>https://umamanualidades.com/otono/</loc>
 		<lastmod>2018-08-28T10:32:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/08/IMG_5548-750x526.webp</image:loc>
@@ -4291,7 +4291,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/corchos/</loc>
+		<loc>https://umamanualidades.com/corchos/</loc>
 		<lastmod>2018-09-18T09:27:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-con-corchos-500x331.webp</image:loc>
@@ -4301,7 +4301,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/envases/</loc>
+		<loc>https://umamanualidades.com/envases/</loc>
 		<lastmod>2018-09-18T09:27:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-envases-500x331.webp</image:loc>
@@ -4506,7 +4506,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/rollos-de-papel-higienico/</loc>
+		<loc>https://umamanualidades.com/rollos-de-papel-higienico/</loc>
 		<lastmod>2018-09-18T09:28:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-tubos-de-carton-500x331.webp</image:loc>
@@ -4537,7 +4537,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/platos-de-plastico/</loc>
+		<loc>https://umamanualidades.com/platos-de-plastico/</loc>
 		<lastmod>2018-09-18T09:28:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-platos-de-plastico-1-500x331.webp</image:loc>
@@ -4595,7 +4595,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/carton/</loc>
+		<loc>https://umamanualidades.com/carton/</loc>
 		<lastmod>2018-09-18T09:28:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-tubo-de-carton-para-jugar-750x469.webp</image:loc>
@@ -4626,7 +4626,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/botes-de-pringles/</loc>
+		<loc>https://umamanualidades.com/botes-de-pringles/</loc>
 		<lastmod>2018-09-18T09:28:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-botes-de-pringles-500x331.webp</image:loc>
@@ -4666,14 +4666,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/capsulas-cafe/</loc>
+		<loc>https://umamanualidades.com/capsulas-cafe/</loc>
 		<lastmod>2018-09-18T09:28:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-capsulas-de-cafe-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/rotuladores/</loc>
+		<loc>https://umamanualidades.com/rotuladores/</loc>
 		<lastmod>2018-09-18T10:13:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/rotus-500x331.webp</image:loc>
@@ -4728,7 +4728,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/palillos-chinos/</loc>
+		<loc>https://umamanualidades.com/palillos-chinos/</loc>
 		<lastmod>2018-09-18T10:14:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-palitos-chinos-500x331.webp</image:loc>
@@ -4801,7 +4801,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/bellotas/</loc>
+		<loc>https://umamanualidades.com/bellotas/</loc>
 		<lastmod>2018-09-18T10:16:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-bellotas-500x331.webp</image:loc>
@@ -4859,7 +4859,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/nueces/</loc>
+		<loc>https://umamanualidades.com/nueces/</loc>
 		<lastmod>2018-09-18T10:16:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-nueces-500x331.webp</image:loc>
@@ -4920,7 +4920,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/hojas/</loc>
+		<loc>https://umamanualidades.com/hojas/</loc>
 		<lastmod>2018-09-18T10:16:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/08/manualidades-con-hojas-500x331.webp</image:loc>
@@ -4987,7 +4987,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/plantas/</loc>
+		<loc>https://umamanualidades.com/plantas/</loc>
 		<lastmod>2018-09-18T10:16:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-plantas-500x331.webp</image:loc>
@@ -5045,7 +5045,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/rafia/</loc>
+		<loc>https://umamanualidades.com/rafia/</loc>
 		<lastmod>2018-09-18T10:16:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-rafia-de-colores-750x469.webp</image:loc>
@@ -5106,7 +5106,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/semillas/</loc>
+		<loc>https://umamanualidades.com/semillas/</loc>
 		<lastmod>2018-09-18T10:16:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-semillas-500x331.webp</image:loc>
@@ -5161,7 +5161,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/flores-artificiales/</loc>
+		<loc>https://umamanualidades.com/flores-artificiales/</loc>
 		<lastmod>2018-09-18T10:16:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-flores-artificiales-500x331.webp</image:loc>
@@ -5225,7 +5225,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/fieltro/</loc>
+		<loc>https://umamanualidades.com/fieltro/</loc>
 		<lastmod>2018-09-18T10:17:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/posavasos-de-fieltro-750x469.webp</image:loc>
@@ -5238,7 +5238,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/goma-eva/</loc>
+		<loc>https://umamanualidades.com/goma-eva/</loc>
 		<lastmod>2018-09-18T10:17:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-goma-eva-500x331.webp</image:loc>
@@ -5359,7 +5359,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/centros-de-mesa/</loc>
+		<loc>https://umamanualidades.com/centros-de-mesa/</loc>
 		<lastmod>2018-09-18T10:48:39+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/centros-de-mesa-con-tejas-750x469.webp</image:loc>
@@ -5483,7 +5483,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/squishy/</loc>
+		<loc>https://umamanualidades.com/squishy/</loc>
 		<lastmod>2018-09-18T10:51:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/como-hacer-squishy-500x331.webp</image:loc>
@@ -5514,7 +5514,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/spinner/</loc>
+		<loc>https://umamanualidades.com/spinner/</loc>
 		<lastmod>2018-09-18T10:51:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/como-hacer-un-spinner-500x331.webp</image:loc>
@@ -5524,14 +5524,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/fofuchas/</loc>
+		<loc>https://umamanualidades.com/fofuchas/</loc>
 		<lastmod>2018-09-18T10:52:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/fofuchas-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/origami/</loc>
+		<loc>https://umamanualidades.com/origami/</loc>
 		<lastmod>2018-09-18T10:53:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/origami--500x331.webp</image:loc>
@@ -5628,7 +5628,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/kirigami/</loc>
+		<loc>https://umamanualidades.com/kirigami/</loc>
 		<lastmod>2018-09-18T10:53:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-kirgami-500x331.webp</image:loc>
@@ -5650,7 +5650,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ganchillo/</loc>
+		<loc>https://umamanualidades.com/ganchillo/</loc>
 		<lastmod>2018-09-18T10:53:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/manualidades-ganchillo-500x331.webp</image:loc>
@@ -5741,7 +5741,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/invierno/</loc>
+		<loc>https://umamanualidades.com/invierno/</loc>
 		<lastmod>2018-10-16T10:12:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/10/manualidades-invierno-500x331.webp</image:loc>
@@ -5763,7 +5763,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/limpiapipas/</loc>
+		<loc>https://umamanualidades.com/limpiapipas/</loc>
 		<lastmod>2018-11-19T16:08:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/limpipipas-500x331.webp</image:loc>
@@ -5779,7 +5779,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/bosque/</loc>
+		<loc>https://umamanualidades.com/bosque/</loc>
 		<lastmod>2018-11-20T08:36:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-bosque-500x331.webp</image:loc>
@@ -5795,7 +5795,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/botes/</loc>
+		<loc>https://umamanualidades.com/botes/</loc>
 		<lastmod>2018-11-20T08:36:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-con-botes-500x331.webp</image:loc>
@@ -5811,7 +5811,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/cartulina/</loc>
+		<loc>https://umamanualidades.com/cartulina/</loc>
 		<lastmod>2018-11-20T08:37:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-con-cartulina-500x331.webp</image:loc>
@@ -5830,7 +5830,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/cosas-de-casa/</loc>
+		<loc>https://umamanualidades.com/cosas-de-casa/</loc>
 		<lastmod>2018-11-20T08:37:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-con-cosas-500x331.webp</image:loc>
@@ -5849,14 +5849,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/folios/</loc>
+		<loc>https://umamanualidades.com/folios/</loc>
 		<lastmod>2018-11-20T08:39:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-con-folios-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/pinas/</loc>
+		<loc>https://umamanualidades.com/pinas/</loc>
 		<lastmod>2018-11-20T08:41:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/09/adorno-pared-oton%CC%83o-750x469.jpg</image:loc>
@@ -5878,7 +5878,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ramas/</loc>
+		<loc>https://umamanualidades.com/ramas/</loc>
 		<lastmod>2018-11-20T08:41:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-con-ramas-500x331.webp</image:loc>
@@ -5900,7 +5900,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/cuerda/</loc>
+		<loc>https://umamanualidades.com/cuerda/</loc>
 		<lastmod>2018-11-20T08:42:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/manualidades-con-cuerdas-500x331.webp</image:loc>
@@ -5949,7 +5949,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/envolver-regalos/</loc>
+		<loc>https://umamanualidades.com/envolver-regalos/</loc>
 		<lastmod>2018-12-16T19:15:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/11/como-envolver-regalos-500x331.webp</image:loc>
@@ -5995,7 +5995,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/slime/</loc>
+		<loc>https://umamanualidades.com/slime/</loc>
 		<lastmod>2019-01-07T15:17:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/09/manualidades-de-slime-500x331.webp</image:loc>
@@ -6026,7 +6026,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/flores-papel/</loc>
+		<loc>https://umamanualidades.com/flores-papel/</loc>
 		<lastmod>2019-01-10T08:12:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-flores-de-papel-500x331.webp</image:loc>
@@ -6093,7 +6093,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-bombones/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-bombones/</loc>
 		<lastmod>2019-01-16T10:10:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/bombones5c4b2ac13f905.webp</image:loc>
@@ -6124,7 +6124,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-boniato/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-boniato/</loc>
 		<lastmod>2019-01-16T10:25:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/boniato5c4b2a833c5d5.webp</image:loc>
@@ -6146,7 +6146,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-papel-aluminio/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-papel-aluminio/</loc>
 		<lastmod>2019-01-16T10:28:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/papel-aluminio5c4b29ac0e9c1.webp</image:loc>
@@ -6171,7 +6171,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-capullos-de-seda/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-capullos-de-seda/</loc>
 		<lastmod>2019-01-16T10:30:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/capullos-de-seda5c4b2a59c3a6e.webp</image:loc>
@@ -6190,7 +6190,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-caracoles/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-caracoles/</loc>
 		<lastmod>2019-01-16T10:33:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/caracoles5c4b29e9ef539.webp</image:loc>
@@ -6236,7 +6236,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/cassettes/</loc>
+		<loc>https://umamanualidades.com/cassettes/</loc>
 		<lastmod>2019-01-16T10:37:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/cassettes5c4b11ac177de.webp</image:loc>
@@ -6276,7 +6276,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-harina/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-harina/</loc>
 		<lastmod>2019-01-20T12:47:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/harina5c4b11ec0f82c.webp</image:loc>
@@ -6301,7 +6301,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/faciles/</loc>
+		<loc>https://umamanualidades.com/faciles/</loc>
 		<lastmod>2019-01-21T09:47:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-faciles-500x331.webp</image:loc>
@@ -6311,7 +6311,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/algodon/</loc>
+		<loc>https://umamanualidades.com/algodon/</loc>
 		<lastmod>2019-01-25T13:36:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/algodon5c4b1130cb02c.webp</image:loc>
@@ -6360,7 +6360,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/capsulas-dolce-gusto/</loc>
+		<loc>https://umamanualidades.com/capsulas-dolce-gusto/</loc>
 		<lastmod>2019-01-25T15:33:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/capsulas-dolce-gusto5c4b2dcce5d69.webp</image:loc>
@@ -6403,7 +6403,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/frutas/</loc>
+		<loc>https://umamanualidades.com/frutas/</loc>
 		<lastmod>2019-01-25T15:34:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/frutas5c4b2de818961.webp</image:loc>
@@ -6455,7 +6455,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/pelotas-de-tenis/</loc>
+		<loc>https://umamanualidades.com/pelotas-de-tenis/</loc>
 		<lastmod>2019-01-25T15:38:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/pelotas-de-tenis5c4b2e0d1f92c.webp</image:loc>
@@ -6495,7 +6495,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/palitos-de-helado/</loc>
+		<loc>https://umamanualidades.com/palitos-de-helado/</loc>
 		<lastmod>2019-01-28T08:54:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/04/palitos-madera-500x331.webp</image:loc>
@@ -6550,7 +6550,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/regalos/</loc>
+		<loc>https://umamanualidades.com/regalos/</loc>
 		<lastmod>2019-01-28T15:40:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-regalos-500x331.webp</image:loc>
@@ -6599,7 +6599,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/infantiles/</loc>
+		<loc>https://umamanualidades.com/infantiles/</loc>
 		<lastmod>2019-02-04T11:44:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-infantiles-500x331.webp</image:loc>
@@ -6633,7 +6633,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/bolsas/</loc>
+		<loc>https://umamanualidades.com/bolsas/</loc>
 		<lastmod>2019-02-12T08:46:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/02/bolsas5c628847d1674.webp</image:loc>
@@ -6733,7 +6733,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/flores/</loc>
+		<loc>https://umamanualidades.com/flores/</loc>
 		<lastmod>2019-04-15T08:08:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-flores-artificiales-500x331.webp</image:loc>
@@ -6752,7 +6752,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/guirnaldas/</loc>
+		<loc>https://umamanualidades.com/guirnaldas/</loc>
 		<lastmod>2019-04-15T08:11:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/guirnaldas1-750x469.webp</image:loc>
@@ -6789,14 +6789,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/dia-de-la-madre/</loc>
+		<loc>https://umamanualidades.com/dia-de-la-madre/</loc>
 		<lastmod>2019-04-15T08:16:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/04/dia-madre-500x331.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/primavera/</loc>
+		<loc>https://umamanualidades.com/primavera/</loc>
 		<lastmod>2019-04-15T08:18:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/04/primavera--500x331.webp</image:loc>
@@ -6812,7 +6812,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/bebes/</loc>
+		<loc>https://umamanualidades.com/bebes/</loc>
 		<lastmod>2019-04-15T09:40:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/bebes-500x331.webp</image:loc>
@@ -6825,7 +6825,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/fiestas/</loc>
+		<loc>https://umamanualidades.com/fiestas/</loc>
 		<lastmod>2019-04-16T08:13:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/fiests-500x331.webp</image:loc>
@@ -6871,7 +6871,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/pascua/</loc>
+		<loc>https://umamanualidades.com/pascua/</loc>
 		<lastmod>2019-04-19T20:54:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/04/pollitos-de-origami-para-pascua-750x469.webp</image:loc>
@@ -6881,7 +6881,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/scrapbook/</loc>
+		<loc>https://umamanualidades.com/scrapbook/</loc>
 		<lastmod>2019-06-12T23:00:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/scrap-500x331.webp</image:loc>
@@ -6990,7 +6990,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/imanes/</loc>
+		<loc>https://umamanualidades.com/imanes/</loc>
 		<lastmod>2019-09-17T18:40:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/03/iman-globos-750x469.webp</image:loc>
@@ -7003,14 +7003,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-del-mar/</loc>
+		<loc>https://umamanualidades.com/manualidades-del-mar/</loc>
 		<lastmod>2019-09-18T18:41:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/08/centro-de-mesa-con-conchas-y-caracolas-500x333.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/papel/</loc>
+		<loc>https://umamanualidades.com/papel/</loc>
 		<lastmod>2019-10-02T08:22:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-papel-500x331.webp</image:loc>
@@ -7068,7 +7068,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/animales/</loc>
+		<loc>https://umamanualidades.com/animales/</loc>
 		<lastmod>2019-10-07T08:53:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/07/animales-con-funny-gummy-paso-a-paso-500x313.webp</image:loc>
@@ -7243,7 +7243,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/mandalas/</loc>
+		<loc>https://umamanualidades.com/mandalas/</loc>
 		<lastmod>2020-09-26T14:27:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2020/09/como-hacer-mandalas-414x400.webp</image:loc>
@@ -7307,7 +7307,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/decoracion-reciclada/</loc>
+		<loc>https://umamanualidades.com/decoracion-reciclada/</loc>
 		<lastmod>2020-11-14T11:54:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-decoracion-500x331.webp</image:loc>
@@ -7353,7 +7353,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/sant-jordi/</loc>
+		<loc>https://umamanualidades.com/sant-jordi/</loc>
 		<lastmod>2022-01-07T23:11:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/04/sant-jordi--500x331.webp</image:loc>
@@ -7372,7 +7372,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/san-valentin/</loc>
+		<loc>https://umamanualidades.com/san-valentin/</loc>
 		<lastmod>2022-01-07T23:17:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-san-valentin-500x331.webp</image:loc>
@@ -7394,7 +7394,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/hama-beads/</loc>
+		<loc>https://umamanualidades.com/hama-beads/</loc>
 		<lastmod>2022-01-07T23:30:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/manualidades-con-hama-beads-500x331.webp</image:loc>
@@ -7470,7 +7470,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/conchas-de-mar/</loc>
+		<loc>https://umamanualidades.com/conchas-de-mar/</loc>
 		<lastmod>2022-01-07T23:35:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/06/Manualidades-con-conchas-de-mar-500x331.webp</image:loc>
@@ -7525,7 +7525,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/navidad/</loc>
+		<loc>https://umamanualidades.com/navidad/</loc>
 		<lastmod>2022-01-07T23:40:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/08/manualidades-de-navidad-500x331.webp</image:loc>
@@ -7598,7 +7598,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/botellas/</loc>
+		<loc>https://umamanualidades.com/botellas/</loc>
 		<lastmod>2022-08-22T10:44:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2017/05/manualidades-recicladas-de-botellas-500x333.webp</image:loc>
@@ -7611,7 +7611,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/ca/scrapbook/</loc>
+		<loc>https://umamanualidades.com/ca/scrapbook/</loc>
 		<lastmod>2022-08-22T15:02:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2018/07/scrap-500x331.webp</image:loc>
@@ -7720,7 +7720,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-herraduras/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-herraduras/</loc>
 		<lastmod>2023-10-18T09:37:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/herraduras5c4b1227df061.webp</image:loc>
@@ -7754,7 +7754,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.umamanualidades.com/manualidades-con-lentejas/</loc>
+		<loc>https://umamanualidades.com/manualidades-con-lentejas/</loc>
 		<lastmod>2023-10-18T09:38:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.umamanualidades.com/wp-content/uploads/2019/01/lentejas5c4b28623aa2e.webp</image:loc>
