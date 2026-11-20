@@ -16,27 +16,6 @@
           'non_interaction': true
         });
       }, 30000);
-      	/* Funciones uma */
-    function addelvideo(video) {
-        $('#YTplayer').html('<iframe id="player" pl="" type="text/html" width="640" height="390"allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"  src="https://www.youtube.com/embed/' + video + '?enablejsapi=1" frameborder="0"></iframe>');
-    };
-    $('#comment').click(function() {
-        $('.comment-form-author').show();
-        $('.comment-form-email').show();
-        $('.comment-form-url').show();
-        $('.comment-form-cookies-consent').show();
-    });
-    function responsivemenu() {
-        var x = document.getElementById("myTopnav");
-        var y = document.getElementById("myTopbutton");
-        if (x.className === "topnav") {
-            x.className += " responsive";
-            y.className += " menu_is_opened";
-        } else {
-            x.className = "topnav";
-            y.className = "wprmenu_icon";
-        }
-    }
 	/* Lazyload */
                 var wpcf7 = {
                     "apiSettings": {
@@ -78,12 +57,6 @@
 						"color": "#ffffff"
 					}]
 				};
-			var tag2 = document.createElement("script");
-			tag2.src = "https://umamanualidades.com/wp-content/plugins/table-of-contents-plus/front.min.js";
-			document.getElementsByTagName("head")[0].appendChild(tag2);
-			var tag5 = document.createElement("script");
-			tag5.src = "https://umamanualidades.com/wp-content/plugins/kk-star-ratings/js.min.js";
-			document.getElementsByTagName("head")[0].appendChild(tag5);
                 function lazyLoadThumb(e) {
                     var t = '<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',
                         a = '<div class="play"></div>';
