@@ -10,7 +10,8 @@
 
     gtag('config', 'G-6BY227YM24');}, 3000);
     setTimeout(function() {
-        gtag('event', 'sin_rebote', {
+        if (typeof window.gtag !== "function") return;
+        window.gtag('event', 'sin_rebote', {
           'event_category': 'por_tiempo',
           'event_label': 'Engagement',
           'non_interaction': true
