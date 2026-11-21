@@ -48,8 +48,8 @@
 <link rel="icon" href="https://umamanualidades.com/wp-content/uploads/2017/08/cropped-uma-manualidades-192x192.webp" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://umamanualidades.com/wp-content/uploads/2017/08/cropped-uma-manualidades-180x180.webp" />
 <meta name="msapplication-TileImage" content="https://umamanualidades.com/wp-content/uploads/2017/08/cropped-uma-manualidades-270x270.webp" />
-    <script type='text/javascript' src='https://code.jquery.com/jquery-latest.min.js' defer></script>
-    <script type='text/javascript' src='https://umamanualidades.com/wp-includes/js/jquery/jquery-migrate.min.js' defer></script>
+
+
 	<style>
     html {
         font-family: sans-serif;
@@ -1125,7 +1125,7 @@
     }</style>
 	<link rel='preload' href='https://umamanualidades.com/css/style.min.css' as='style' onload="this.onload=null;this.rel='stylesheet'">
 	<noscript><link rel="stylesheet" href="https://umamanualidades.com/css/style.min.css"></noscript>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6168305907433563" crossorigin="anonymous"></script><script src="/uma-interactions.js" defer></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6168305907433563" crossorigin="anonymous"></script><script src="/uma-interactions.js" defer></script><script src="/uma-welcome.js" defer></script>
 </head>
 <body class="post-template-default single single-post postid-3131 single-format-aside es-ES header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-footer-widgets-hidden"><div class="site-container"><div style="text-align:center;" class="">
 <ins class="adsbygoogle"
@@ -1165,7 +1165,7 @@
 </ul>
 </div>
 </div>
-  <div onclick="$('.modal-bienvenida').show();$('.modal-backdrop').show();ga('send', 'event', 'Popup', 'Popup', 'Presentacion del canal', undefined, true);" class="ytplayfixed">►</div>
+  <div onclick="setWelcomeModal(true);if (typeof ga === 'function') ga('send', 'event', 'Popup', 'Popup', 'Presentacion del canal', undefined, true);" class="ytplayfixed">►</div>
   <div id="myTopbutton" class="wprmenu_icon" onclick="responsivemenu();"> <span class="wprmenu_ic_1"></span> <span class="wprmenu_ic_2"></span> <span class="wprmenu_ic_3"></span></div>
 
 <div class="site-inner-sm"><div class="content-sidebar-wrap"><main class="content"><div class="row" style="margin: 0 auto;">
@@ -1422,8 +1422,8 @@ var wpcf7 = {"api":{"root":"http:\/\/aldeamontessori.vl23616.dinaserver.com\/wp-
 /* ]]> */
 </script>
 
-<script type='text/javascript' src='https://umamanualidades.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://umamanualidades.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+
+
 <script type='text/javascript' id='toc-front-js-extra'>
 /* <![CDATA[ */
 var tocplus = {"visibility_show":"mostrar","visibility_hide":"ocultar","visibility_hide_by_default":"1","width":"Auto"};
@@ -1434,7 +1434,7 @@ var tocplus = {"visibility_show":"mostrar","visibility_hide":"ocultar","visibili
 <script type='text/javascript' src='https://umamanualidades.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.2.1' id='skip-links-js'></script>
 	<div class="modal-bienvenida" role="dialog">
 		<div class="modal-dialog">
-			<div class="close" onclick="$('.modal-bienvenida').hide();$('.modal-backdrop').hide();$('#playermodalbienvenida').attr('src',$('#playermodalbienvenida').attr('src'));" style="background: #cdafc7; top: 20px; right: 20px; border: 1px solid white; font-family: pacifico; text-align: center; padding-left: 12px;">X</div>
+			<div class="close" onclick="setWelcomeModal(false);" style="background: #cdafc7; top: 20px; right: 20px; border: 1px solid white; font-family: pacifico; text-align: center; padding-left: 12px;">X</div>
 			<div style="max-width:400px;margin:0 auto;">
 			<div style="background:#cdafc7;color:white;">
 			<img style="max-width:100%;padding: 5px;padding-bottom: 0;" src="https://umamanualidades.com/wp-content/uploads/email/bannersuperiorpopup.png" alt="Uma Manualidades" title="Uma Manualidades" />
@@ -1445,7 +1445,7 @@ var tocplus = {"visibility_show":"mostrar","visibility_hide":"ocultar","visibili
 		<div style="text-align: center; margin: 0;padding:5px 0;">
 			<img width="87" height="50" itemprop="image" src="https://umamanualidades.com/wp-content/uploads/iconos/manomoviendo.gif" alt="Suscribirse" style="display:inline-block;" />
 			<a href="https://www.youtube.com/channel/UC6CZZxCxl_pFDLNo66dZDXA?sub_confirmation=1" target="_blank" onclick="ga('send', 'event', 'Suscribirse', 'Suscribirse', 'Suscribirse', undefined, true);fbq('track', 'Subscribe');">
-			<img itemprop="image" class="" onmouseover="$(this).attr('src','https://umamanualidades.com/wp-content/uploads/email/suscribirbotonhover.jpg');" onmouseout="$(this).attr('src','https://umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg');" src="https://umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg" alt="Suscribirse" style="display:inline-block;" />
+			<img itemprop="image" class="" onmouseover="this.src='/wp-content/uploads/email/suscribirbotonhover.jpg';" onmouseout="this.src='/wp-content/uploads/email/suscribirboton.jpg';" src="https://umamanualidades.com/wp-content/uploads/email/suscribirboton.jpg" alt="Suscribirse" style="display:inline-block;" />
 			</a>
 		</div>			<div style="background:#cdafc7;color:white;">
 			<h3 style="padding-left: 20px; font-family: pacifico;margin: 0;font-size: 20px;">Paso 2:</h3>
@@ -1461,7 +1461,7 @@ var tocplus = {"visibility_show":"mostrar","visibility_hide":"ocultar","visibili
 			</div>
 		</div>
 	</div>
-	<div class="modal-backdrop" onclick="$('.modal-bienvenida').hide();$('.modal-backdrop').hide();$('#playermodalbienvenida').attr('src',$('#playermodalbienvenida').attr('src'));"></div>
+	<div class="modal-backdrop" onclick="setWelcomeModal(false);"></div>
         
 		<script>
 		window.addEventListener('load', function () {
