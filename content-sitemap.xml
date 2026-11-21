@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://umamanualidades.com/adultos/cumpleanos-de-adultos/</loc>
   </url>
@@ -1646,6 +1646,7 @@
   </url>
   <url>
     <loc>https://umamanualidades.com/navidad/manualidades-recicladas-de-los-reyes-magos/</loc>
+    <image:image><image:loc>https://umamanualidades.com/navidad/manualidades-recicladas-de-los-reyes-magos/vista-corona-reyes.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://umamanualidades.com/navidad/mini-arbol-de-navidad-de-carton-y-cuerda/</loc>
@@ -2450,6 +2451,7 @@
   </url>
   <url>
     <loc>https://umamanualidades.com/san-valentin/tarjetas-de-san-valentin/</loc>
+    <image:image><image:loc>https://umamanualidades.com/san-valentin/tarjetas-de-san-valentin/plantilla-tarjeta-oso.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://umamanualidades.com/san-valentin/tarta-con-chuches-para-san-valentin/</loc>
